@@ -33,7 +33,7 @@ Stake your GUSTEAU in Chef Gusteau’s Kitchen of Plenty—150M locked, early bi
 ## Token Details
 - **Contract Address**: [0x6b4929afad8391ecc8572492285e1d4d0b0d10fa](https://etherscan.io/token/0x6b4929afad8391ecc8572492285e1d4d0b0d10fa)
 - **Staking Contract**: [0x939823f69e828960570943fBA8203a57b20D14d3](https://etherscan.io/address/0x939823f69e828960570943fBA8203a57b20D14d3)
-- **Total Supply**: 1B GUSTEAU—900M minted, 100M flambéed (burned) at launch.
+- **Total Supply**: 1B GUSTEAU—900M minted, 100M flambéed at launch.
 - **Decimals**: 18—fine dining precision!
 
 ---
@@ -41,12 +41,13 @@ Stake your GUSTEAU in Chef Gusteau’s Kitchen of Plenty—150M locked, early bi
 ## Get Cooking
 1. **Grab GUSTEAU**: [Swap on Uniswap](https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x6b4929afad8391ecc8572492285e1d4d0b0d10fa)—35% broth’s ready to pour!
 2. **Stake**: Hit [gusteau.cooking](gusteau.cooking), connect wallet, simmer your stack. 150M locked in the Kitchen of Plenty.
-3. **Claim**: Serve up “Freshly Baked Rewards”—early birds get ~95 GUSTEAU/min solo!
+3. **Claim**: Serving up Freshly Baked Rewards and Earl Bird Feasts —an additional 150M up for grabs.
 
 ---
 
 ## Join the Kitchen
-- **X**: Cook with us at [#GUSTEAU](https://x.com)—share your staking haul!
+- **X**: Elon's Kitchen [@gusteaucoin](https://x.com/gusteaucoin)
+- **Discord: Join fellow chefs! [GUSTEAU's Kitchen](https://discord.gg/vSxnzmC6) 
 - **GitHub**: Peek at the recipe—[source code](https://github.com/chef-gusteau/gusteau-coin).
 - **Etherscan**: Verified and sizzling—[GUSTEAU](https://etherscan.io/address/0x6b4929afad8391ecc8572492285e1d4d0b0d10fa), [Staking](https://etherscan.io/address/0x939823f69e828960570943fBA8203a57b20D14d3).
 
