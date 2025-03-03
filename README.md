@@ -14,7 +14,7 @@ Welcome to GUSTEAU—the ERC-20 token cooked up on Ethereum Mainnet with a dash 
 | Ingredient       | Amount       | Description                                      |
 |------------------|--------------|--------------------------------------------------|
 | 🍲 **Broth**     | 35% (350M)   | Simmered into Uniswap—let's trade!              |
-| 🥄 **Spice**     | 15% (150M)   | Airdropped to chefs—spreading the flavor!       |
+| 🌿 **Spice**     | 15% (150M)   | Airdropped to chefs—spreading the flavor!       |
 | 🍖 **Steak**     | 15% (150M)   | Community feast—locked for dynamic staking!     |
 | 🧀 **Garnish**   | 10% (100M)   | Kitchen crew—fueling the team!                  |
 | 🔥 **Flambé**    | 10% (100M)   | Burned at launch—crisp and gone!                |
@@ -47,7 +47,7 @@ Stake your GUSTEAU in Chef Gusteau’s Kitchen of Plenty—150M locked, early bi
 
 ## Join the Kitchen
 - **X**: Chef Elon's Kitchen [@gusteaucoin](https://x.com/gusteaucoin)
-- **Discord: Join fellow chefs! [GUSTEAU's Kitchen](https://discord.gg/vSxnzmC6) 
+- **Discord**: Join fellow chefs! [GUSTEAU's Kitchen](https://discord.gg/vSxnzmC6) 
 - **GitHub**: Peek at the recipe—[source code](https://github.com/chef-gusteau/gusteau-coin).
 - **Etherscan**: Verified and sizzling—[GUSTEAU](https://etherscan.io/address/0x6b4929afad8391ecc8572492285e1d4d0b0d10fa), [Staking](https://etherscan.io/address/0x939823f69e828960570943fBA8203a57b20D14d3).
 
