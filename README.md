@@ -46,9 +46,10 @@ Stake your GUSTEAU in Chef Gusteau’s Kitchen of Plenty—150M locked, early bi
 ---
 
 ## Join the Kitchen
-- **X**: Chef Elon's Kitchen [@gusteaucoin](https://x.com/gusteaucoin)
-- **Discord**: Join fellow chefs! [GUSTEAU's Kitchen](https://discord.gg/vSxnzmC6) 
-- **GitHub**: Peek at the recipe—[source code](https://github.com/chef-gusteau/gusteau-coin).
+- **X**: At Chef Elon's Kitchen [@gusteaucoin](https://x.com/gusteaucoin)
+- **Discord**: Join The Discord Kitchen [GUSTEAU's Kitchen](https://discord.gg/vSxnzmC6) 
+- **TG**: Join The Telegram Kitchen [t.me/GUSTEAUCoin](https://t.me/GUSTEAUCoin)
+- **GitHub**: Peek at the recipe—[source code](https://github.com/chef-gusteau/gusteau-coin)
 - **Etherscan**: Verified and sizzling—[GUSTEAU](https://etherscan.io/address/0x6b4929afad8391ecc8572492285e1d4d0b0d10fa), [Staking](https://etherscan.io/address/0x939823f69e828960570943fBA8203a57b20D14d3).
 
 ---
